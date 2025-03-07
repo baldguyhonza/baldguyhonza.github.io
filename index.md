@@ -1,6 +1,6 @@
 ---
 title: Welcome to My Thoughts
-layout: default
+layout: home
 ---
 
 ## Welcome to My Space  
