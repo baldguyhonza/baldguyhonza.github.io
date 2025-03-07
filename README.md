@@ -1,1 +1,1 @@
-# baldguyhonza.github.io
+# baldguyhonza.github.io jekyll-theme-modernist
