@@ -1,15 +1,18 @@
 title: "BaldGuyHonza"
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
 header_pages:
   - index.md
   - posts.md
   - about.md
   - category-philosophy.md
-  - category-science.md
   - category-personal.md
-  include: 
+
+minima:
+  skin: classic
+  include:
     - assets/custom-styles.css
-  - assets/enso-circle-final.jpg
