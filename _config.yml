@@ -14,3 +14,5 @@ minima:
   skin: classic
   include: 
     - assets/custom-styles.css
+  include:
+  - assets/enso-circle-bg.jpg
