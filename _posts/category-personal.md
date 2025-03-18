@@ -1,6 +1,6 @@
 ---
 title: "Personal Posts"
-layout: default
+layout: page
 permalink: /category/philosophy/
 ---
 
