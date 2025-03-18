@@ -1,6 +1,10 @@
-theme: minima
-# Navigation Menu
+title: "BaldGuyHonza"
+theme: jekyll-theme-modernist
+
 header_pages:
   - index.md
   - posts.md
   - about.md
+  - category-philosophy.md
+  - category-science.md
+  - category-personal.md
