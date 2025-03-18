@@ -15,7 +15,7 @@ header_pages:
 minima:
   skin: classic
   include:
-    - assets/custom-styles.css
+    - assets/custom-styles-v2.css
 
 include:
   - assets/background.jpg
