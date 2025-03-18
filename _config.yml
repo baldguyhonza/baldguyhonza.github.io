@@ -1,5 +1,5 @@
 title: "BaldGuyHonza"
-theme: jekyll-theme-modernist
+theme: minima
 
 header_pages:
   - index.md
