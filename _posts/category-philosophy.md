@@ -1,6 +1,7 @@
 ---
 title: "Philosophy Posts"
 layout: default
+permalink: /category/philosophy/
 ---
 
 ## Philosophy  
