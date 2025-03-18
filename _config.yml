@@ -18,4 +18,4 @@ minima:
     - assets/custom-styles.css
 
 include:
-  - assets/enso-circle-final.jpg
+  - assets/background.jpg
