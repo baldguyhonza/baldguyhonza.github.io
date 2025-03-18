@@ -1,5 +1,5 @@
 body {
-    background: url("https://baldguyhonza.github.io/assets/background.jpg") no-repeat center fixed;
-    background-size: contain;
-    background-color: #f5f5f5;
+    background: url("https://baldguyhonza.github.io/assets/background.jpg") no-repeat center fixed !important;
+    background-size: contain !important;
+    background-color: #f5f5f5 !important;
 }
