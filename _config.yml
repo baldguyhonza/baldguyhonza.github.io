@@ -1,5 +1,6 @@
 title: "BaldGuyHonza"
 theme: minima
+include: ["style.css"]
 
 header_pages:
   - index.md
