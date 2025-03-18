@@ -1,0 +1,8 @@
+body {
+    background-image: url("/senso circle.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #f5f5f5;
+}
