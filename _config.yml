@@ -10,8 +10,6 @@ header_pages:
   - category-philosophy.md
   - category-science.md
   - category-personal.md
-minima:
-  skin: classic
   include: 
     - assets/custom-styles.css
   - assets/enso-circle-final.jpg
